@@ -1,4 +1,6 @@
 {
+  "loginDetails": [
   "userName": "admin",
   "password": "admin"
+]
 }
