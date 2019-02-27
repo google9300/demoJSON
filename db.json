@@ -1,6 +1,6 @@
 {
   "loginDetails": [
-    { "userName" : "admin" , "password" : "admin" },
+    { "userName" : "admin" , "password" : "password" },
     { "userName" : "user" , "password" : "user" }
 ]
 }
