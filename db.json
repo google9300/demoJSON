@@ -2,5 +2,11 @@
   "loginDetails": [
     { "userName" : "admin" , "password" : "password" },
     { "userName" : "user" , "password" : "user" }
-]
+],
+  "supportOptions": [
+    { "computerSupport" : [
+      { "LComputerOption1","LComputerOption2","LComputerOption3","LComputerOption4","LComputerOption5","LComputerOption6" },
+      { "MComputerOption1","MComputerOption2","MComputerOption3","MComputerOption4","MComputerOption5","MComputerOption6" },
+      { "SComputerOption1","SComputerOption2","SComputerOption3","SComputerOption4","SComputerOption5","SComputerOption6" }
+      ]
 }
